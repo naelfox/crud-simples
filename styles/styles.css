@@ -1,0 +1,85 @@
+/* Configurações globais */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    overflow-x: hidden;
+}
+
+html{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+}
+
+h1{
+    color: red;
+}
+
+li{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline;
+}
+
+.container{
+    background-color: #7cbdbd;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+
+}
+
+.container li{
+    display: block;
+}
+
+
+/* Barra de navegação*/
+
+nav{
+    background-color: #dfdfdf;
+    display: block ruby;
+}
+
+#logo{
+    width: 300px;
+    padding: 30px;
+}
+
+#logo img{
+    width: 80px;
+
+}
+
+/* Início */
+
+#home{
+    padding: 30px;
+}
+
+/*Tabela*/
+
+td{
+    padding: 30px;
+}
+
+.actions{
+    text-align: center;
+}
+
+
+
+
+
+footer{
+    background-color: #dfdfdf;
+    text-align: center;
+    width: 100%;
+    padding: 30px;
+  
+
+}
